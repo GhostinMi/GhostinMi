@@ -1,11 +1,11 @@
-<h1>Hi, I'm James, and I am a <a href="https://www.linkedin.com/in/james-rapier/">Cybersecurity Student.</a></h1>
+### Hi, I'm James, and I am a <a href="https://www.linkedin.com/in/james-rapier/">Cybersecurity Student.</a>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+## 👨‍💻 Cyber Security Projects:
 
-<h2>Cyber Security Related Sites</h2>
+## Cyber Security Related Sites
 My <a href="https://tryhackme.com/p/GhostMi">TryHackMe</a>
 
-<h2> 🤳 Social Media:</h2>
+## 🤳 Social Media:
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

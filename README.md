@@ -1,8 +1,8 @@
-<h1>Hi, I'm Brandon! <br/><a href="https://github.com/GhostinMi">Programmer</a>, <a href="https://www.linkedin.com/in/james-rapier/">and Cybersecurity Professional</a>
+<h1>Hi, I'm James! <br/><a href="https://github.com/GhostinMi">Programmer</a>, <a href="https://www.linkedin.com/in/james-rapier/">and Cybersecurity Professional</a>
 
 <h1>Page Currently Under Construction!</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - (To Be continued)
 - https://tryhackme.com/p/GhostMi

@@ -2,8 +2,8 @@
 
 ## 👨‍💻 Cyber Security Projects:
 
-## Cyber Security Related Sites
-My <a href="https://tryhackme.com/p/GhostMi">TryHackMe</a>
+## Other Cyber Security Links/etc
+My <a href="https://tryhackme.com/p/GhostMi">TryHackMe (top 3%)</a>
 
 ## 🤳 Social Media:
 

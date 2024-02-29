@@ -7,8 +7,8 @@ My <a href="https://tryhackme.com/p/GhostMi">TryHackMe</a>
 
 ## 🤳 Social Media:
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rapier | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Rapier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/GhostMiRMP
 [linkedin]: https://www.linkedin.com/in/james-rapier/

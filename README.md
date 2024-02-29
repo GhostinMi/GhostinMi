@@ -1,4 +1,4 @@
-### Hi, I'm James, and I am a <a href="https://www.linkedin.com/in/james-rapier/">Cybersecurity Student.</a>
+# Hi, I'm James, and I am a <a href="https://www.linkedin.com/in/james-rapier/">Cybersecurity Student.</a>
 
 ## 👨‍💻 Cyber Security Projects:
 

@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 <h2>Cyber Security Related Sites</h2>
-<a href="https://tryhackme.com/p/GhostMi">TryHackMe</a>
+My <a href="https://tryhackme.com/p/GhostMi">TryHackMe</a>
 
 <h2> 🤳 Social Media:</h2>
 
